@@ -1,4 +1,7 @@
-package file
+package run
+
+import file.EJournal
+
 /**
  * Created by junior on 12/03/17.
  */
